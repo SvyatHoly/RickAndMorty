@@ -3,8 +3,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 # To Run E2E Test
 
 ```bash
-npm run detox build
-npm run detox test
+npm run build:e2e
+npm run test:e2e
 ```
 
 # Getting Started
